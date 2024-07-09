@@ -1,0 +1,15 @@
+/Users/bernabeortega-tenezaca/Desktop/Tutoria/TutoriaPilas/bin/Debug/net7.0/TutoriaPilas
+/Users/bernabeortega-tenezaca/Desktop/Tutoria/TutoriaPilas/bin/Debug/net7.0/TutoriaPilas.deps.json
+/Users/bernabeortega-tenezaca/Desktop/Tutoria/TutoriaPilas/bin/Debug/net7.0/TutoriaPilas.runtimeconfig.json
+/Users/bernabeortega-tenezaca/Desktop/Tutoria/TutoriaPilas/bin/Debug/net7.0/TutoriaPilas.dll
+/Users/bernabeortega-tenezaca/Desktop/Tutoria/TutoriaPilas/bin/Debug/net7.0/TutoriaPilas.pdb
+/Users/bernabeortega-tenezaca/Desktop/Tutoria/TutoriaPilas/obj/Debug/net7.0/TutoriaPilas.csproj.AssemblyReference.cache
+/Users/bernabeortega-tenezaca/Desktop/Tutoria/TutoriaPilas/obj/Debug/net7.0/TutoriaPilas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bernabeortega-tenezaca/Desktop/Tutoria/TutoriaPilas/obj/Debug/net7.0/TutoriaPilas.AssemblyInfoInputs.cache
+/Users/bernabeortega-tenezaca/Desktop/Tutoria/TutoriaPilas/obj/Debug/net7.0/TutoriaPilas.AssemblyInfo.cs
+/Users/bernabeortega-tenezaca/Desktop/Tutoria/TutoriaPilas/obj/Debug/net7.0/TutoriaPilas.csproj.CoreCompileInputs.cache
+/Users/bernabeortega-tenezaca/Desktop/Tutoria/TutoriaPilas/obj/Debug/net7.0/TutoriaPilas.dll
+/Users/bernabeortega-tenezaca/Desktop/Tutoria/TutoriaPilas/obj/Debug/net7.0/refint/TutoriaPilas.dll
+/Users/bernabeortega-tenezaca/Desktop/Tutoria/TutoriaPilas/obj/Debug/net7.0/TutoriaPilas.pdb
+/Users/bernabeortega-tenezaca/Desktop/Tutoria/TutoriaPilas/obj/Debug/net7.0/TutoriaPilas.genruntimeconfig.cache
+/Users/bernabeortega-tenezaca/Desktop/Tutoria/TutoriaPilas/obj/Debug/net7.0/ref/TutoriaPilas.dll
