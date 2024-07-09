@@ -9,9 +9,19 @@ Stack<string> materias = new Stack<string>();
 var otraPila = new Stack<string>();
 
 System.Console.WriteLine("Ingres una materia");
-string materia = Console.ReadLine();
+//string materia = Console.ReadLine();
 
-materias.Push(materia);
-materias.Push("Quimica");
-materias.Push("Física");
+//Agregar datos a la pila
+materias.Push("Matemáticas"); // Matemáticas se va al fondo
+materias.Push("Química"); 
+materias.Push("Física"); // Fisica será el top de los elementos
+imprimirPila(materias);
 
+
+
+
+static void imprimirPila(Stack<string> pila){
+    foreach (var item in pila){
+        System.Console.WriteLine(item);
+    }
+}
