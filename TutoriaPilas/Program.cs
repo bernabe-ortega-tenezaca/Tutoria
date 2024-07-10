@@ -17,7 +17,7 @@ materias.Push("Física"); // Fisica será el top de los elementos
 // foreach (var item in materias){
 //     System.Console.WriteLine(item);
 // }
-imprimirPila(materias);
+//imprimirPila(materias);
 
 // pila con lectura de datos
 for(int i =1; i<=5; i++){
@@ -26,6 +26,13 @@ for(int i =1; i<=5; i++){
 }
 
 imprimirPila(otraPila);
+otraPila.Pop(); //Elimina el elemento superior
+imprimirPila(otraPila);
+
+string borrado =  otraPila.Pop(); //capturo el dato borrado
+System.Console.WriteLine("ha borrado: " + borrado);
+imprimirPila(otraPila);
+
 
 static void imprimirPila(Stack<string> pila){
     System.Console.WriteLine("**************************");
