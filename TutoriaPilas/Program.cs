@@ -40,3 +40,16 @@ static void imprimirPila(Stack<string> pila){
         System.Console.WriteLine(item);
     }
 }
+System.Console.WriteLine("Pilas originales");
+imprimirPila(materias);
+imprimirPila(otraPila);
+
+//otraPila.Push(materias.Pop());
+//Remover de una pila y poner en otra
+string temporal = materias.Pop(); //capturo el elemento que he borrado
+otraPila.Push(temporal);
+
+Console.ReadLine();
+System.Console.WriteLine("Pilas modificadas");
+imprimirPila(materias);
+imprimirPila(otraPila);
